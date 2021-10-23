@@ -1,5 +1,8 @@
 package ramosfonbon.hilos.model;
 
+/**
+ * @author Victor Ramos ramosfonbon@gmail.com
+ */
 public class SimpleResponse {
     private String requestStatus;
     private int processId;

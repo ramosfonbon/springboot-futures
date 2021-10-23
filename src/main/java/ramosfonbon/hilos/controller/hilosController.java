@@ -13,6 +13,10 @@ import ramosfonbon.hilos.service.ProcesoService;
 
 import java.util.concurrent.CompletableFuture;
 
+/**
+ * @author Victor Ramos ramosfonbon@gmail.com
+ */
+
 @RestController
 public class hilosController {
     private int localId = 1;
